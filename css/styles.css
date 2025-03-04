@@ -1,6 +1,6 @@
 /* General Styling */
 body {
-    background-image: url("../images/black.jpg");
+    background-image: url("black.jpg");
 }
 
 #page-wrapper {
@@ -12,7 +12,7 @@ body {
 
 /* Header Styling */
 #header {
-    background-image: url("../images/black.jpg");
+    background-image: url("black.jpg");
     height: 80px;
     clear: both;
     position: relative;
