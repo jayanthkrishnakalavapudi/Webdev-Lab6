@@ -1,6 +1,6 @@
 /* General Styling */
 body {
-    background-image: url("/Users/aahilpenwalla/Desktop/Webdev-Lab6/images/black.jpg");
+    background-image: url("images/black.jpg");
 }
 
 #page-wrapper {
@@ -12,7 +12,7 @@ body {
 
 /* Header Styling */
 #header {
-    background-image: url("/Users/aahilpenwalla/Desktop/Webdev-Lab6/images/black.jpg");
+    background-image: url("images/black.jpg");
     height: 80px;
     clear: both;
     position: relative;
@@ -80,7 +80,7 @@ body {
 
 /* Main Content Styling */
 #content-wrapper {
-    background-image: url("repeating.png");
+    background-image: url("images/repeating.png");
     float: left;
 }
 
