@@ -80,7 +80,7 @@ body {
 
 /* Main Content Styling */
 #content-wrapper {
-    background-image: url("/images/repeating.png");
+    background-image: url("../images/repeating.png");
     float: left;
 }
 
