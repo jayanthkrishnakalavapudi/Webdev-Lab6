@@ -1,6 +1,6 @@
 /* General Styling */
 body {
-    background-image: url("/images/black.jpg");
+    background-image: url("../images/black.jpg");
 }
 
 #page-wrapper {
